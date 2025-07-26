@@ -1,0 +1,6 @@
+iso_code,continent,location,date,total_cases,new_cases,total_deaths,new_deaths,total_vaccinations
+USA,North America,United States,2021-01-01,20000000,200000,350000,3000,1000000
+IND,Asia,India,2021-01-01,10000000,100000,150000,2000,500000
+BRA,South America,Brazil,2021-01-01,8000000,80000,200000,2500,300000
+USA,North America,United States,2021-01-02,20200000,220000,355000,3200,1200000
+IND,Asia,India,2021-01-02,10200000,120000,152000,2100,600000
