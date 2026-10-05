@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-05",
+  "title": "COVID data cleaning practice",
+  "runtime_verified_for_publication": false,
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "5d88202b853217c723bde4ea54206901e0bb7f1e0e782347d799332a294adc6f",
+      "bytes": 421
+    },
+    {
+      "path": "covid data cleaning.py",
+      "sha256": "19257be249a038f723b59f39f718b2703c99d520deed418aa38bd8d7afe05400",
+      "bytes": 1439
+    },
+    {
+      "path": "README.md",
+      "sha256": "56d2bbe7b15c7d38523d11c02c49e620dd7415a8626bf20dd2b5e90abf05dd9a",
+      "bytes": 736
+    },
+    {
+      "path": "sample_owid_covid_data.csv",
+      "sha256": "b2f12746b77b743d7f86a2448eda0deb9dbb3019d77611463d6f89c661207bd2",
+      "bytes": 447
+    }
+  ]
+}
