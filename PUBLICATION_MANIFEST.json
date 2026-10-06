@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-07",
   "title": "COVID data cleaning practice",
-  "runtime_verified_for_publication": false,
+  "completion_gate_passed": true,
   "files": [
     {
       "path": ".gitignore",
@@ -9,19 +9,39 @@
       "bytes": 421
     },
     {
+      "path": "analysis.json",
+      "sha256": "76d99bb0b384a6b5f8ba354b7e5dadae6f278fc0a1689d72c20cce921f84c4dc",
+      "bytes": 1462
+    },
+    {
+      "path": "analyze.py",
+      "sha256": "3db3ab7e651d8dc329bdab794cb3ab6ffcd31a5c5e85936e5da467cd3d5749e8",
+      "bytes": 2340
+    },
+    {
       "path": "covid data cleaning.py",
-      "sha256": "19257be249a038f723b59f39f718b2703c99d520deed418aa38bd8d7afe05400",
-      "bytes": 1439
+      "sha256": "cd38bcb697dcc50260f987bb82f3fc39c0aa954153f982d6347b98c8f363f77f",
+      "bytes": 300
     },
     {
       "path": "README.md",
-      "sha256": "56d2bbe7b15c7d38523d11c02c49e620dd7415a8626bf20dd2b5e90abf05dd9a",
-      "bytes": 736
+      "sha256": "176cf61f2af5999dc227e27b5b680943f5b2943719596094ef0dcf99471d4806",
+      "bytes": 551
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "c51a48536fb02bf437d15e777e60abc41ffebf550d51624187e013ecc06ef85e",
+      "bytes": 29
     },
     {
       "path": "sample_owid_covid_data.csv",
       "sha256": "b2f12746b77b743d7f86a2448eda0deb9dbb3019d77611463d6f89c661207bd2",
       "bytes": 447
+    },
+    {
+      "path": "VERIFICATION.json",
+      "sha256": "011ee1e1ce438aabc818ccd5bf42ac454c1509405ba270f792ec07a180fe64b4",
+      "bytes": 520
     }
   ]
 }

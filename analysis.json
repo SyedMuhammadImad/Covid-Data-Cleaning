@@ -1,0 +1,59 @@
+{
+  "source": "Supplied sample OWID-style CSV; historical data, not current public-health advice",
+  "rows": 5,
+  "countries": {
+    "BRA": {
+      "location": "Brazil",
+      "latest_reported": {
+        "total_cases": {
+          "value": 8000000.0,
+          "as_of": "2021-01-01"
+        },
+        "total_deaths": {
+          "value": 200000.0,
+          "as_of": "2021-01-01"
+        },
+        "total_vaccinations": {
+          "value": 300000.0,
+          "as_of": "2021-01-01"
+        }
+      }
+    },
+    "IND": {
+      "location": "India",
+      "latest_reported": {
+        "total_cases": {
+          "value": 10200000.0,
+          "as_of": "2021-01-02"
+        },
+        "total_deaths": {
+          "value": 152000.0,
+          "as_of": "2021-01-02"
+        },
+        "total_vaccinations": {
+          "value": 600000.0,
+          "as_of": "2021-01-02"
+        }
+      }
+    },
+    "USA": {
+      "location": "United States",
+      "latest_reported": {
+        "total_cases": {
+          "value": 20200000.0,
+          "as_of": "2021-01-02"
+        },
+        "total_deaths": {
+          "value": 355000.0,
+          "as_of": "2021-01-02"
+        },
+        "total_vaccinations": {
+          "value": 1200000.0,
+          "as_of": "2021-01-02"
+        }
+      }
+    }
+  },
+  "revision_rows": 0,
+  "aggregation": "latest nonmissing cumulative value per country, with metric-specific date"
+}
